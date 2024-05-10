@@ -28,10 +28,10 @@ pip install pygame
 
 The snake is controlled using the keyboard with the following keys:
 
-- **W**: Move up
-- **A**: Move left
-- **S**: Move down
-- **D**: Move right
+- **UP ARROW**: Move up
+- **LEFT ARROW**: Move left
+- **DOWN ARROW**: Move down
+- **RIGHT ARROW**: Move right
 
 ## Game Mechanics
 
