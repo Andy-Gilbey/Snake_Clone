@@ -8,7 +8,7 @@ The game has several mechanics - you control the snake and must eat the pellets 
 To run the Snake game, you will need Python and the PyGame library. Here are the requirements:
 
 - **Python**: Python 3.6 or newer is recommended.
-- **PyGame**: A popular library for writing video games in Python.
+- **PyGame**: The library which was used  for writing the game.
 
 ## Installation
 
@@ -62,5 +62,8 @@ The game can be played on multiple difficulty levels, which affect the scoring m
 
 This scoring multiplier is applied to the points obtained from each pellet.
 
-# To run
+# To Run
+Open the folder where the game lives and run the command
+```bash
+python main.py
 
