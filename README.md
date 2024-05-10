@@ -62,7 +62,7 @@ The game can be played on multiple difficulty levels, which affect the scoring m
 
 This scoring multiplier is applied to the points obtained from each pellet.
 
-# To Run
+## To Run
 Open the folder where the game lives and run the command
 ```bash
 python main.py
