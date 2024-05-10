@@ -23,7 +23,7 @@ Once Python is installed, you will have to install pygame which can be done usin
 
 ```bash
 pip install pygame
-
+```
 ## Game Controls
 
 The snake is controlled using the keyboard with the following keys:
@@ -66,4 +66,4 @@ This scoring multiplier is applied to the points obtained from each pellet.
 Open the folder where the game lives and run the command
 ```bash
 python main.py
-
+```
